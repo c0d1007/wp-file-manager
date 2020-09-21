@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 """
 @Author  : xDroid
-@File    : wp.py
+@File    : file_manager_Rce.py
 @Time    : 2020/9/21
 """
 import requests
